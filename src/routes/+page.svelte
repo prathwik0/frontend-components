@@ -1,6 +1,6 @@
 <div>
   <ul>
-    <li><a href="positioning">Positioning Examples</a></li>
+    <li><a href="positioning/static">Positioning Examples</a></li>
   </ul>
 </div>
 
